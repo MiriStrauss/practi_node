@@ -8,6 +8,7 @@ import {
 const router = express.Router()
 
 router.get('', getAll)
+console.log("oo");
 
 
 export default router
