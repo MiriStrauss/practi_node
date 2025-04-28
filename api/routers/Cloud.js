@@ -11,4 +11,5 @@ router.get('', getAll)
 console.log("oo");
 
 
+
 export default router
